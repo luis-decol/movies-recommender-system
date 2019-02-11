@@ -4,7 +4,7 @@ I knew building a recommender system was going to be a big challenge, but that o
 
 First, I started with some data cleaning, feature engineering and EDA. Then I built the first recommender system: a collaborative-filtering model. Moving onto the content-based models, I built two versions, being the second an improvement of the first one. Finally, I built two hybrid models. The Jupyter Notebook includes a step by step description of the project.
 
-The “Data” folder includes both the original and the cleaned/processed datasets used for the project. A thorough description of how those files were used is included in the Jupyter Notebook.
+The data used for this project can be found online at https://grouplens.org/datasets/movielens/ in the section "recommended for education and development" as the "full" dataset.
 
 A more detailed explanation of my next steps is included in the Jupyter Notebook, but in few words, they are the following:
 -	Improving the models by including more features (feature engineering)

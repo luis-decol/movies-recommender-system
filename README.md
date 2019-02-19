@@ -11,3 +11,5 @@ A more detailed explanation of my next steps is included in the Jupyter Notebook
 -	Building other hybrid recommender systems
 -	Using neural networks to try to improve the models
 -	Building a user-friendly Flask App/Web 
+
+For a more techincal description of the project refer to the Technical-Report.md file.
